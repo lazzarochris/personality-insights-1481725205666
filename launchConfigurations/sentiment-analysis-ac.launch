@@ -6,7 +6,7 @@
       "Org": "cfsworkload",
       "Space": "dev"
     },
-    "Name": "sentiment-analysis-ac",
+    "Name": "cl-sentiment-analysis-ac",
     "Instrumentation": {
       "domain": "mybluemix.net"
     }
